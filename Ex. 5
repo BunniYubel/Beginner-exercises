@@ -1,0 +1,5 @@
+Money, Bitcoin, Ethereum, Litecoin = 100, 50, 25, 10
+
+print(f"With ${Money} you can buy: {Money//Bitcoin} Bitcoin(s), "
+      f"{Money//Ethereum} Ethereum, "
+      f"and {Money//Litecoin} Litecoin(s)")
