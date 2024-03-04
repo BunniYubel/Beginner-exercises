@@ -1,5 +1,0 @@
-Width = 5
-Height = 7
-Area = Width * Height
-
-print(f"Area = {Width} x {Height} = {Area}")
