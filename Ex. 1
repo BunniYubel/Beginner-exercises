@@ -1,0 +1,5 @@
+a, b = 10, 20
+temp = a
+a = b
+b = temp
+print(f"Output: a = {a}, b = {b}")
