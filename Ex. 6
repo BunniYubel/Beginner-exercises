@@ -1,5 +1,0 @@
-Price = 300
-Tax = 1 + (10/100)
-Total = Price * Tax
-
-print(f"The total price of the laptop is {Total}$")
