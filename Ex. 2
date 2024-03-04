@@ -1,0 +1,9 @@
+import random
+
+Geometry, Algebra, Physics = (random.randint(0,10),
+                              random.randint(0,10),
+                              random.randint(0,10))
+print(f"Geometry = {Geometry}, Algebra = {Algebra}, Physics = {Physics}")
+
+Average = (Geometry + Algebra + Physics) / 3
+print(f"Average = {Average}")
